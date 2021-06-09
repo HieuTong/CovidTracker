@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCDD6CF5-3C60-4114-AC01-C4AE69C4FF7B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AC3A6C5-06ED-4D46-922B-2E7D440E5E20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CovidTracker/FilterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchStates()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4AC3A6C5-06ED-4D46-922B-2E7D440E5E20 - 5b1a2fdf5bf5f3b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CovidTracker.State&gt;, Swift.Error&gt;) -&gt; () in CovidTracker.FilterViewController.(fetchStates in _1A2BE7D2DADA8FF41DA2085A4DC3A448)() -&gt; ()"
+                  moduleName = "CovidTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hieutong/Desktop/CovidTracker/CovidTracker/FilterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "4AC3A6C5-06ED-4D46-922B-2E7D440E5E20 - 5b1a2fdf5bf5f3b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CovidTracker.State&gt;, Swift.Error&gt;) -&gt; () in CovidTracker.FilterViewController.(fetchStates in _1A2BE7D2DADA8FF41DA2085A4DC3A448)() -&gt; ()"
+                  moduleName = "CovidTracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hieutong/Desktop/CovidTracker/CovidTracker/FilterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
